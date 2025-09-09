@@ -1,0 +1,1 @@
+# Min Repro Rules Rust
